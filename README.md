@@ -2,7 +2,7 @@
 
 **You might as well refer the link [BV1554y1n7zv](https://www.bilibili.com/video/BV1wY411p7mU/), but below are some notifications:**
 
-1.Enter the installation through Safe GUI
+1.Enter the installation through *Safe GUI*
 
 1.When parting the disk, use four partitions: efi, / (form of ext4), swap, /home (form of xfs). efi and / should be primary partition, whereas swap and /home should be logic. Remember, boot from the efi.
 
