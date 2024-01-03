@@ -1,5 +1,5 @@
 
-<font size="3">Self-built Ubuntu Server</font>
+<font size=7>Self-built Ubuntu Server</font>
 
 **You might as well refer the link [BV1554y1n7zv](https://www.bilibili.com/video/BV1wY411p7mU/), but below are some notifications:**
 
