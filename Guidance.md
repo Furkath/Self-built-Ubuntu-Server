@@ -1,5 +1,4 @@
-
-#Self-built Ubuntu Server
+# Self-built Ubuntu Server
 
 **You might as well refer the link [BV1554y1n7zv](https://www.bilibili.com/video/BV1wY411p7mU/), but below are some notifications:**
 
