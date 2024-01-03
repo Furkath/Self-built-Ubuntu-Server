@@ -15,10 +15,10 @@ And things very important are, don’t stop the GUI (gdm, X, any thing related) 
 
 4.Follow this to set virtualGL before installing NV driver, when there is a fail for apt-get install something, and –fix-broken can hard work, apt install -f first. Remember, just install for future, do not set its environment right now! When installing NV driver, pkg-config and libglvnd-dev may be needed beforehead.
 
-5.Follow ![this](https://blog.csdn.net/baiyu33/article/details/130630836) to have JI VPN in ubuntu.
+5.Follow [this](https://blog.csdn.net/baiyu33/article/details/130630836) to have JI VPN in ubuntu.
 
-6.Follow ![this](https://dev.to/selllami/how-to-run-mobaxterm-on-ubuntu-linux-with-wine-ohf) and ![this](https://wiki.winehq.org/Ubuntu_zhcn) to install X-ssh for ubuntu.
+6.Follow [this](https://dev.to/selllami/how-to-run-mobaxterm-on-ubuntu-linux-with-wine-ohf) and [this](https://wiki.winehq.org/Ubuntu_zhcn) to install X-ssh for ubuntu.
 
-7.Follow ![this](https://estuarine.jp/2023/04/oneapi-ubuntu-22-04/?lang=en) and ![this](https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-download.html?operatingsystem=linux&distributions=aptpackagemanager) to have Intel-toolkit for HPC
+7.Follow [this](https://estuarine.jp/2023/04/oneapi-ubuntu-22-04/?lang=en) and [this](https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-download.html?operatingsystem=linux&distributions=aptpackagemanager) to have Intel-toolkit for HPC
 
 
